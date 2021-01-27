@@ -1,0 +1,43 @@
+* {
+  padding: 0 auto ;
+  margine: 0 auto ;
+  font-family: Helvetica ;
+  align-content: center;
+}
+
+body{
+  background-color: coral ;
+}
+
+h1 {
+  font-size: 100px ;
+  color: khaki ;
+  text-align: center ;
+  background-image: url("../images/pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  color: white ;
+  background-color: mediumspringgreen ;
+}
+
+h1, h2 {
+  font-weight: bold ;
+}
+
+em {
+  font-weight: bold;
+  color: blue ;
+  font-style: normal;
+  font-family: Helvetica ;
+}
+
+.wrapper {
+  max-width: 1000px ;
+  margin-left: auto ;
+  margin-right: auto ;
+  background-color: white ;
+
+
+}
